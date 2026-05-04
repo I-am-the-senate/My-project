@@ -1,4 +1,4 @@
-# Temporal Physics Toolkit
+# Temporal Physics Toolkit(悖论引擎)
 
 这是一个 Unity 运行时脚本包，用于实现“过去玩家影响物理世界，系统立即复制当前 PhysX 状态并加速模拟到收敛，然后把收敛后的世界状态同步给未来视图/未来玩家”的流程。
 
