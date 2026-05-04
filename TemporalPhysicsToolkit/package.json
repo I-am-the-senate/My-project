@@ -1,0 +1,10 @@
+{
+  "name": "com.local.temporal-physics-toolkit",
+  "version": "0.1.0",
+  "displayName": "Temporal Physics Toolkit",
+  "description": "Branch a Unity PhysX scene, fast-forward it to convergence, and export a future world state for split-screen or networked future-view gameplay.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Project Local Package"
+  }
+}
