@@ -461,5 +461,5 @@
  - 设计：我
  - 校对：你
  - 幕后主使：牛顿
- - 由Claude，Deepseek共同丰富内容
+ - 由Claude，Deepseek，qwen，gpt共同丰富实现细节
  
