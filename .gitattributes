@@ -169,3 +169,7 @@ Packages/packages-lock.json linguist-generated
 
 # Exceptions for .asset files such as lightning pre-baking
 LightingData.asset     binary
+
+# README demo media is intentionally small and should render inline on GitHub.
+docs/media/demo.mp4         -filter -diff -merge -text
+docs/media/demo-preview.gif -filter -diff -merge -text

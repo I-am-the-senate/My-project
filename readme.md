@@ -15,7 +15,9 @@
 - 悖论引擎：本游戏中大量出现的TemporalPhysics Tookit 悖论引擎依然处于试验阶段，有大量功能可能和关卡设计出现冲突。如果出现了和预期不符的问题，请不要犹豫修改引擎中的代码。
 - 引擎演示：
 
-https://github.com/user-attachments/assets/4711f7ae-1906-4c63-ad4f-13b7d4706de7
+[![悖论引擎演示](docs/media/demo-preview.gif)](docs/media/demo.mp4)
+
+> 如果上方预览没有自动播放，可以直接打开 [`docs/media/demo.mp4`](docs/media/demo.mp4)。该版本已从原始 `mp4v` 转码为 H.264/AAC，以提高 GitHub 和浏览器兼容性。
 
 ### 1.1 双人本地协作配置
 
